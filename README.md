@@ -36,4 +36,3 @@ Note:
 - The bot answers only from the data you scraped and processed.
 - All code and models are free/open-source.
 
-License: MIT
