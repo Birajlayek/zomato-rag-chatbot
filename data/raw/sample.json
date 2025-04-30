@@ -1,0 +1,9 @@
+{
+    "name": "Sample Restaurant",
+    "location": {"address": "456 Oak Rd"},
+    "menu": [
+      {"name": "Vegetarian Pizza", "price": 12, "description": "Fresh veggies", "tags": ["vegetarian"]}
+    ],
+    "features": {"vegetarian": true}
+  }
+  

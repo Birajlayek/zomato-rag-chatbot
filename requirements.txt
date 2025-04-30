@@ -1,0 +1,11 @@
+beautifulsoup4
+requests
+langchain
+chromadb
+sentence-transformers
+gradio
+python-dotenv
+pytest
+torch
+transformers
+accelerate
